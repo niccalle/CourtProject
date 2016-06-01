@@ -1,0 +1,25 @@
+body{
+	background-repeat: no-repeat;
+	background: url('../rome.jpeg');
+	background-size: cover;
+}
+.title{
+	position: static;
+	margin-top: 10%;
+	margin-bottom: 20%;
+		width: 100%;
+	background-color: rgba(0,0,0,0.5);
+	padding: 20px;
+}
+h1 {
+	font-size: 50px;
+	color: rgb(256,256,256);
+}
+h2 {
+	font-size: 25px;
+	color: rgb(256,256,256);
+}
+p {
+	font-size: 18px;
+	color: rgb(256,256,256);
+}
